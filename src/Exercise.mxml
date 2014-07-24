@@ -8,4 +8,5 @@
 	<s:Label x="425" y="46" fontSize="24" fontWeight="bold" text="Exercise"/>
 	<s:Label x="403" y="111" fontFamily="Arial" fontSize="25" fontStyle="italic" text="Little Change"/>
 	<s:Label x="418" y="161" fontSize="20" fontWeight="bold" text="New Change"/>
+	<s:Label x="374" y="206" fontSize="20" text="Test of sample branch"/>
 </s:Application>
